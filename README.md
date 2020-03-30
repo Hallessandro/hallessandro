@@ -4,5 +4,4 @@
 
 - The final screen of this app can be see below:
 
-https://github.com/Hallessandro/profile_page/blob/master/assets/images/demo.png
-
+![App demo image](https://github.com/Hallessandro/profile_page/blob/master/assets/images/demo.png)
