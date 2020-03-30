@@ -1,1 +1,8 @@
-![The project look is this](https://drive.google.com/file/d/1ZyI-FHG7fSnBMWVJLRLJ4Nd7R5tidwx5/view?usp=sharing)
+- This project is a simple profile page made in flutter.
+
+- The ideia for this project, comes from the amazing course of [Dr. Angela Yu](https://twitter.com/yu_angela) on [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
+
+- The final screen of this app can be see below:
+
+https://github.com/Hallessandro/profile_page/blob/master/assets/images/demo.png
+
